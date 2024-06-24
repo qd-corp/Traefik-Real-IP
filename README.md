@@ -1,7 +1,5 @@
 # Enhancing IP Transparency with Traefik and the `traefik_real_ip` Plugin
 
-[Github Repo Link for traefik-real-ip Plugin](https://github.com/r3d-shadow/traefik-real-ip/)
-
 For an insightful deep dive into how the X-Forwarded-For header impacts rate limiting and why setting the real client IP is essential, consider reading this [blog](https://red-shadow.live/blogs/bypassing-rate-limiting-using-the-x-forwarded-for-header-a-deep-dive). Understanding these concepts is pivotal in ensuring robust and secure application deployments.
 
 ## Introduction to Traefik
